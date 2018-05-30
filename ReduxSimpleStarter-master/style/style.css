@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.search-bar {
+    max-width: 75%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.search-bar input {
+}
+
+.video-item img {
+    max-width: 64px;
+}
+
+.video-detail .details {
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
