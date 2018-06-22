@@ -1,3 +1,7 @@
 #new-post-form {
     margin-top: 10%;
 }
+
+form a {
+    margin-left: 5px;
+}
